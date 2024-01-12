@@ -1,1 +1,1 @@
-# waste-detection-using-yolov5
+# Waste-Detection-Using-Yolov5
